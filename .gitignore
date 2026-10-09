@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+outputs/
+projects/
+private/
+*.mp4
+*.mov
+*.flac
+*.wav
+*.mp3

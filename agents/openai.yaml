@@ -1,0 +1,4 @@
+interface:
+  display_name: "婚礼视频导演"
+  short_description: "从真实照片、视频和歌曲出发，完成参考片分析、音乐卡点、纸片动效与完整成片核验"
+  default_prompt: "请使用 $wedding-film-director，依据我的照片、视频、音乐和参考片制作或修改婚礼视频，延续已认可的风格，并交付经过画面、声音和素材覆盖检查的可播放成片。"
